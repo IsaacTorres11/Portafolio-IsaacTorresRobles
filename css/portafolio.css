@@ -304,7 +304,7 @@ footer .redes-sociales .youtube:hover{
 }
 
 @media screen and (max-width: 530px){
-	header .menu {
+	header .menu { 
 	 	display: flex;
 	 	flex-wrap: wrap;
 	}
